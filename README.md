@@ -8,7 +8,6 @@ This code allows you to connect devices using an ESP32 and Sinric Pro via the in
 - Distance measurement with an ultrasonic sensor.
 - Automatic control of connected devices based on sensor input.
 
-## Getting Started
-1. **Clone the repository**:  
+**Clone the repository**:  
    ```bash
    git clone https://github.com/qmamushroof/ESP32-code-for-Motion-detection-Ultrasonic-sensing-and-Remote-control.git
