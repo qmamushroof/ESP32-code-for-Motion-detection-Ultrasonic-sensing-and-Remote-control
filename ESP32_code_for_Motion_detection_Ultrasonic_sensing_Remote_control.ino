@@ -1,4 +1,4 @@
-// https://github.com/qmamushroof/ESP32-code-for-Motion-detection-Ultrasonic-sensing-and-Remote-control/blob/main/ESP32_code_for_Motion_detection_Ultrasonic_sensing_Remote_control.ino
+// https://github.com/qmamushroof/ESP32-code-for-Motion-detection-Ultrasonic-sensing-and-Remote-control
 
 #include <WiFi.h>
 #include "SinricPro.h"
