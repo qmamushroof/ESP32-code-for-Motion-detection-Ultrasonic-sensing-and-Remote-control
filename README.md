@@ -12,7 +12,3 @@ This code allows you to connect devices using an ESP32 and Sinric Pro via the in
 
 ## Circuit Diagram
 ![Circuit Diagram](https://github.com/user-attachments/assets/f4ac567a-9537-4e10-8297-085225b3360e)
-
-**Clone the repository**:  
-   ```bash
-   git clone https://github.com/qmamushroof/ESP32-code-for-Motion-detection-Ultrasonic-sensing-and-Remote-control.git
