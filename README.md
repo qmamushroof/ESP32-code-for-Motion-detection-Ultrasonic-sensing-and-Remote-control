@@ -1,6 +1,10 @@
 # ESP32 code for Motion Detection, Ultrasonic Sensing, and Remote Control
 This code allows you to connect devices using an ESP32 and Sinric Pro via the internet for remote control. It integrates motion detection with a PIR sensor and distance measurement using an ultrasonic sensor to automate device control.
 
+## Paper
+Energy-Efficient Home Automation Through Motion Detection, Ultrasonic Sensing and Voice Control
+Link: [IEEE Xplore](https://ieeexplore.ieee.org/document/11021910)
+
 ## Features
 - Remote control of devices through Sinric Pro.
 - Motion detection using a PIR sensor.
