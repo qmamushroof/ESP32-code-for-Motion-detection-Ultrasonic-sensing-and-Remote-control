@@ -3,6 +3,7 @@ This code allows you to connect devices using an ESP32 and Sinric Pro via the in
 
 ## Paper
 Energy-Efficient Home Automation Through Motion Detection, Ultrasonic Sensing and Voice Control
+
 Link: [IEEE Xplore](https://ieeexplore.ieee.org/document/11021910)
 
 ## Features
